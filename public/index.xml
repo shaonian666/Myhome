@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Hugo website</title>
+    <title>Your site title</title>
     <link>/</link>
-    <description>Recent content on A Hugo website</description>
+    <description>Recent content on Your site title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Oct 2018 00:00:00 +0000</lastBuildDate>
@@ -13,10 +13,10 @@
     
     <item>
       <title>First day</title>
-      <link>/2018/10/05/first-day/</link>
+      <link>/post/first-day/</link>
       <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/10/05/first-day/</guid>
+      <guid>/post/first-day/</guid>
       <description>Plant stress tolerance may therefore be improved by the enhancement of in vivo levels of antioxidant enzymes.</description>
     </item>
     
