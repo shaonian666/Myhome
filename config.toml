@@ -1,7 +1,7 @@
-baseUrl = "https://example.com/"
+baseUrl = "https://liuhui.netlify.com/"
 languageCode = "en-us"
-title = "liu Hui blog"
-theme = "hello-friend"
+title = "Liuhui blog"
+theme = "blackburn"
 copyright = ""
 paginate = 5
 
