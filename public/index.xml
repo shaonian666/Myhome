@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Liuhui blog</title>
-    <link>/</link>
+    <link>https://liuhui.netlify.com/</link>
     <description>Recent content on Liuhui blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://liuhui.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First day</title>
-      <link>/post/first-day/</link>
+      <link>https://liuhui.netlify.com/post/first-day/</link>
       <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/first-day/</guid>
+      <guid>https://liuhui.netlify.com/post/first-day/</guid>
       <description>Plant stress tolerance may therefore be improved by the enhancement of in vivo levels of antioxidant enzymes.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://liuhui.netlify.com/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://liuhui.netlify.com/about/</guid>
       <description>welcome</description>
     </item>
     
