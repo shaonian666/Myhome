@@ -7,8 +7,4 @@ categories:
   - R
 tags: []
 ---
-<<<<<<< HEAD
-第一次使用R做博客
-=======
-
->>>>>>> 04355e6ab100ba2ef3e370aa81f7ac208b263dbb
+The first to make thie blog.
