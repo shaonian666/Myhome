@@ -17,16 +17,7 @@
       <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/10/05/first-day/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My new home</title>
-      <link>/2018/10/05/my-new-home/</link>
-      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/10/05/my-new-home/</guid>
-      <description></description>
+      <description>you test</description>
     </item>
     
     <item>
@@ -35,7 +26,7 @@
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+      <description>welcome</description>
     </item>
     
   </channel>
