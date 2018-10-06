@@ -1,12 +1,12 @@
 baseUrl = "https://example.com/"
 languageCode = "en-us"
-title = "Your site title"
+title = "liu Hui blog"
 theme = "hello-friend"
 copyright = ""
 paginate = 5
 
 [params]
-  subtitle = "liu Hui blog"
+  subtitle = ""
 
 [params.logo]
   logoText = "hello friend"
